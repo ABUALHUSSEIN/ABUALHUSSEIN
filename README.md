@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**ABUALHUSSEIN/ABUALHUSSEIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anwar Abu Alhussein
 
-Here are some ideas to get you started:
+🎓 Data Science Enthusiast | 💡 Machine Learning | 📊 R & Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on clinical and movie analytics projects
+- 🌱 Learning deep learning and model interpretability
+- 📫 Reach me: [LinkedIn](your-link) | Email: your@email.com
+
+## 🚀 Featured Projects
+
+- 🫀 [Heart Failure Prediction](https://github.com/ABUALHUSSEIN/your-repo)
+- 🎬 [Movie Data Cleaning in R](https://github.com/ABUALHUSSEIN/your-repo)
+- 🏠 [House Price Prediction](https://github.com/ABUALHUSSEIN/your-repo)
+
+## 📈 GitHub Stats
+
+![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABUALHUSSEIN&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABUALHUSSEIN&layout=compact)

@@ -1,19 +1,12 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaraAlhussein/SaraAlhussein/main/banner.png" alt="Data Science Banner" width="800"/>
+</p>
+
 # 👋 Hi, I'm Anwar Abu Alhussein
 
-🎓 Data Science Enthusiast | 💡 Machine Learning | 📊 R & Python
+### 🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer
 
-- 🔭 Working on clinical and movie analytics projects
-- 🌱 Learning deep learning and model interpretability
-- 📫 Reach me: [LinkedIn](your-link) | Email: your@email.com
+I'm passionate about solving real-world problems with data and machine learning...
 
-## 🚀 Featured Projects
-
-- 🫀 [Heart Failure Prediction](https://github.com/ABUALHUSSEIN/your-repo)
-- 🎬 [Movie Data Cleaning in R](https://github.com/ABUALHUSSEIN/your-repo)
-- 🏠 [House Price Prediction](https://github.com/ABUALHUSSEIN/your-repo)
-
-## 📈 GitHub Stats
-
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABUALHUSSEIN&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABUALHUSSEIN&layout=compact)
+<!-- rest of the README -->

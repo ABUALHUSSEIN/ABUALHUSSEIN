@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Anwar AbuAlhussein | Statistician & Data Scientist Banner" width="100%" />
-</p>
+
 
 # Hello World! 👋 I'm Anwar AbuAlhussein
 

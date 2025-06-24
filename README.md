@@ -1,6 +1,9 @@
-# Hello World! 👋 I'm Anwar AbuAlhussein
 
-### 📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning
+
+
+<h1 align="center"># Hello World! 👋 I'm Anwar AbuAlhussein
+</h1>
+<h3 align="center">📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning</h3>
 
 I'm passionate about solving real-world problems through data and machine learning. I transform raw datasets into actionable insights and intelligent, high-impact models.
 

@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaraAlhussein/SaraAlhussein/main/banner.png" alt="Data Science Banner" width="800"/>
-</p>
 
 # 👋 Hi, I'm Anwar Abu Alhussein
 

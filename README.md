@@ -10,7 +10,6 @@ I'm passionate about solving real-world problems with data and machine learning.
 - Always **learning new technologies** and **collaborating** on open-source
 - Ask me about **data**, **ML**, or **Power BI**
 - Exploring: Kaggle Competitions & Creative AI Projects
-- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anwarabualhussein/)) 
 
 ---
 
@@ -27,10 +26,11 @@ I'm passionate about solving real-world problems with data and machine learning.
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anwarabualhussein/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anwarabualhussein/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/anwarabualhussien)
 
-🔎 I'm also active on [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/anwarabualhussien), where I share notebooks, datasets, and compete in ML challenges.
-**
+where I share notebooks, datasets, and compete in ML challenges.
+
 ---
 
 ⭐️ _“Data is the new oil, but insight is the new electricity.”_

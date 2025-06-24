@@ -38,7 +38,6 @@ I'm passionate about solving real-world problems through data and machine learni
 
 | 📁 Project | 💡 Description | 🛠️ Tools |
 |-----------|----------------|----------|
-| `fertilizer-ml-recommender` | Recommends fertilizers based on crop, soil, and weather | Python, scikit-learn |
 | `fraud-detection-paysim` | Detects fraudulent transactions with ML pipelines | XGBoost, SMOTE, GridSearchCV |
 | `heart-disease-predictor` | Predicts heart disease using ML models in R | tidymodels, ROC, tuning |
 | `powerbi-sales-dashboard` | Business dashboard with advanced visuals | Power BI |

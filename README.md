@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"># Hello World! 👋 I'm Anwar AbuAlhussein
+<h1 align="center"> Hello World! 👋 I'm Anwar AbuAlhussein
 </h1>
 <h3 align="center">📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning</h3>
 

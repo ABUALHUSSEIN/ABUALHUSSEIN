@@ -1,26 +1,36 @@
-  # Hello World! 👋, I'm [Anwar AbuAlhussein]
+# Hello World! 👋 I'm Anwar AbuAlhussein
 
-  ###  Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning 
+### 📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning
 
+I'm passionate about solving real-world problems through data and machine learning. I transform raw datasets into actionable insights and intelligent, high-impact models.
 
-I'm passionate about solving real-world problems with data and machine learning. I turn raw datasets into actionable insights and intelligent model. 
-
-- Expertise in **Data Analysis**, **Machine Learning**, and **Model Deployment**
-- Experienced in **Statistics**, **Deep Learning**, and **End-to-End ML Pipelines**
-- Always **learning new technologies** and **collaborating** on open-source
-- Ask me about **data**, **ML**, or **Power BI**
-- Exploring: Kaggle Competitions & Creative AI Projects
+- 🔍 Expertise in **Data Analysis**, **Machine Learning**, and **Model Deployment**
+- 🧠 Strong background in **Statistics**, **Deep Learning**, and **End-to-End ML Pipelines**
+- 🚀 Continuously learning **new technologies** and contributing to **open-source**
+- 💬 Ask me about **data science**, **ML models**, or **Power BI dashboards**
+- 🏆 Actively exploring **Kaggle Competitions** & **Creative AI Projects**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python | R | SQL
-- **ML Frameworks**: scikit-learn | XGBoost | LightGBM | CatBoost | tidymodels
-- **Visualization**: Seaborn | Matplotlib | Plotly | Power BI
-- **Tools**: Jupyter | Google Colab | VS Code | Git | GitHub
-- **Other**: SMOTE | Feature Engineering | Model Tuning | EDA
+- **Languages**: Python • R • SQL  
+- **Frameworks**: Scikit-learn • XGBoost • LightGBM • CatBoost • Tidymodels  
+- **Visualization**: Matplotlib • Seaborn • Plotly • Power BI  
+- **Tools**: Jupyter • Google Colab • VS Code • Git • GitHub  
+- **Specialties**: SMOTE • Feature Engineering • Model Tuning • EDA
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Power_BI_Logo.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -29,17 +39,9 @@ I'm passionate about solving real-world problems with data and machine learning.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anwarabualhussein/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/anwarabualhussien)
 
-where I share notebooks, datasets, and compete in ML challenges.
+I share notebooks, datasets, and compete in machine learning challenges on Kaggle.
 
 ---
 
-⭐️ _“Data is the new oil, but insight is the new electricity.”_
-
-
-
----
-
-
-
-
+⭐ _“Data is the new oil, but insight is the new electricity.”_
 

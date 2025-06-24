@@ -32,7 +32,8 @@ I'm passionate about solving real-world problems with data and machine learning.
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)]([https://www.kaggle.com/anwarabualhussien](https://www.kaggle.com/anwarabualhussien))
 
 
-
+🔎 I'm also active on [Kaggle](https://www.kaggle.com/anwarabualhussien), where I share notebooks, datasets, and compete in ML challenges.
+**
 ---
 
 ⭐️ _“Data is the new oil, but insight is the new electricity.”_

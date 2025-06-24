@@ -1,6 +1,7 @@
-# Hello World! 👋, I'm [Anwar AbuAlhussein]
+              # Hello World! 👋, I'm [Anwar AbuAlhussein]
 
-### [Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning ]
+      ### [Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning ]
+
 
 I'm passionate about solving real-world problems with data and machine learning. I turn raw datasets into actionable insights and intelligent model. 
 
@@ -21,15 +22,14 @@ I'm passionate about solving real-world problems with data and machine learning.
 - **Tools**: Jupyter | Google Colab | VS Code | Git | GitHub
 - **Other**: SMOTE | Feature Engineering | Model Tuning | EDA
 
----
 
 ---
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/anwarabualhussein/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.kaggle.com/anwarabualhussien](https://www.linkedin.com/in/anwarabualhussein/))  
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)]([https://www.kaggle.com/saraalhussein](https://www.kaggle.com/anwarabualhussien))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)]([https://www.kaggle.com/anwarabualhussien](https://www.kaggle.com/anwarabualhussien))
 
 
 

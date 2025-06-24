@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Anwar AbuAlhussein | Statistician & Data Scientist Banner" width="100%" />
+</p>
 
+# Hello World! 👋 I'm Anwar AbuAlhussein
 
-
-<h1 align="center"> Hello World! 👋 I'm Anwar AbuAlhussein
-</h1>
-<h3 align="center">📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning</h3>
-
+### 📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning
 
 I'm passionate about solving real-world problems through data and machine learning. I transform raw datasets into actionable insights and intelligent, high-impact models.
 
@@ -33,8 +33,20 @@ I'm passionate about solving real-world problems through data and machine learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
 </p>
+
+---
+
+### 📌 Featured Projects
+
+| 📁 Project | 💡 Description | 🛠️ Tools |
+|-----------|----------------|----------|
+| `fertilizer-ml-recommender` | Recommends fertilizers based on crop, soil, and weather | Python, scikit-learn |
+| `fraud-detection-paysim` | Detects fraudulent transactions with ML pipelines | XGBoost, SMOTE, GridSearchCV |
+| `heart-disease-predictor` | Predicts heart disease using ML models in R | tidymodels, ROC, tuning |
+| `powerbi-sales-dashboard` | Business dashboard with advanced visuals | Power BI |
+| More projects → | See pinned repos below | 📌 |
 
 ---
 
@@ -43,9 +55,11 @@ I'm passionate about solving real-world problems through data and machine learni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anwarabualhussein/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/anwarabualhussien)
 
-I share notebooks, datasets, and compete in machine learning challenges on Kaggle.
+I actively share notebooks, datasets, and compete in machine learning challenges on Kaggle.
 
 ---
 
 ⭐ _“Data is the new oil, but insight is the new electricity.”_
+
+
 

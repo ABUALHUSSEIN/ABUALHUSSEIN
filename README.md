@@ -5,6 +5,7 @@
 </h1>
 <h3 align="center">📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning</h3>
 
+
 I'm passionate about solving real-world problems through data and machine learning. I transform raw datasets into actionable insights and intelligent, high-impact models.
 
 - 🔍 Expertise in **Data Analysis**, **Machine Learning**, and **Model Deployment**
@@ -32,7 +33,7 @@ I'm passionate about solving real-world problems through data and machine learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Power_BI_Logo.svg" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
 </p>
 
 ---

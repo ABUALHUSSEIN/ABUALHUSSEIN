@@ -1,3 +1,4 @@
+![Banner](https://github.com/ABUALHUSSEIN/ABUALHUSSEIN/blob/main/dataanalystanwara.png?raw=true)
 # Hello World! 👋 I'm Anwar AbuAlhussein
 
 ### 📊 Statistician (MSc) | Data Scientist | Expert in Statistical Modeling & Machine Learning
